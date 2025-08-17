@@ -1,0 +1,7 @@
+In pandas, .interpolate() is a method to fill missing values (NaN) with estimated values, instead of just replacing with a constant (fillna) or dropping them.
+
+1- preserve data integrity
+2- smooth trends
+3-avoid data loss
+
+interpolate()
